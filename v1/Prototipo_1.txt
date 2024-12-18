@@ -1,0 +1,1 @@
+En esta carpeta se presentan los archivos CAD para la fabricación de esta versión del "banco de pruebas" para un péndulo de Kapitza.
