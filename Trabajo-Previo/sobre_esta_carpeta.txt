@@ -1,0 +1,6 @@
+En esta carpeta se encuentra la presentación final del trabajo realizado por Juan Pablo Vera
+en el marco de la realización del curso ME6020 - Introducción a la Dinámica No Lineal en el 
+año 2023.
+
+Se planea agregar a futuro otros archivos relacionados directamente al desarrollo realizado
+por Juan Pablo, todo el material de esta carpeta es de su exclusiva propiedad.
